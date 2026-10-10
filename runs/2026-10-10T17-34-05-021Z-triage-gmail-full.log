@@ -1,0 +1,245 @@
+# clef-triage triage · 2026-10-10T17:34:05.022Z
+# model=clef-flash url=http://127.0.0.1:11434/v1/systemone {"tag":"gmail-full","dry-run":false,"target":"labels","eml-dir":"../corpus/eml","gold":"../corpus/emails.jsonl","out":"runs"}
+234        notificaciones  Informativo  N!?  0.40   2005ms | Oferta exclusiva solo para ti
+235        notificaciones  Informativo  N    0.75   1845ms | -15% solo hoy en todo el catálogo
+236        facturacion     Alta         A    0.92   2727ms | Recordatorio de pago: factura F-2026-7543 vencida
+237        facturacion     Alta         A!   0.87   2594ms | Recibo devuelto por el banco - F-2026-7381
+238        facturacion     Normal       A    0.52   2469ms | Duda sobre mi cuenta y la próxima factura
+239        otro            Normal       A?   0.59   2469ms | Informe trimestral
+240        notificaciones  Informativo  N!?  0.41   2472ms | Posicionamos tu web en el TOP 1 de Google en 7 días
+241        notificaciones  Informativo  N!   0.74   2494ms | -50% solo hoy en todo el catálogo
+242        notificaciones  Informativo       0.60   2338ms | Tu pedido 74004 está en camino
+243        ventas          Informativo       0.79   2346ms | Propuesta de colaboración con Suministros Norte
+244        soporte         Crítica      A    0.89   2381ms | URGENTE: el servicio de correo caído desde esta mañana
+245        notificaciones  Informativo       0.88   1497ms | Novedades de la semana #163
+246        ventas          Alta         A    0.80   1510ms | Re: Propuesta 98236 - ajustes en el contrato y la factura
+247        facturacion     Informativo  !    0.89   1543ms | Factura pendiente de regularizar
+248        notificaciones  Informativo  !    0.59   1549ms | Nuevo inicio de sesión en tu cuenta
+249        notificaciones  Normal       A    0.73   1463ms | [ALERTA] Disco al 70% en srv-35
+250        soporte         Normal       A    0.94   1533ms | Can't log in to my account
+251        soporte         Informativo       0.88   1477ms | [Ticket #24996] Resuelto
+252        personal        Informativo       0.78   1496ms | Fotos del viaje
+253        facturacion     Crítica      A    0.56   1548ms | Pedido 81233: no ha llegado y me han cobrado dos veces
+254        notificaciones  Informativo       0.59   1837ms | Resumen mensual de actividad del proyecto
+255        soporte         Normal       A    0.65   1665ms | ¿Cómo exporto mis datos a CSV?
+256        notificaciones  Normal       !    0.67   1535ms | Nuevo inicio de sesión en tu cuenta
+257        personal        Normal       A    0.92   1629ms | Cumpleaños de la abuela
+258        personal        Normal       A    0.79   1578ms | Llámame cuando puedas
+259        soporte         Normal       A    0.90   1661ms | Error 500 al subir archivos en el portal de facturación
+260        notificaciones  Informativo  N!?  0.41   1520ms | Posicionamos tu web en el TOP 1 de Google en 7 días
+261        otro            Alta         A?   0.69   1540ms | Solicitud de supresión de datos personales (RGPD)
+262        facturacion     Informativo  !    0.70   1527ms | Recibo devuelto por el banco - F-2026-5133
+263        personal        Normal       A    0.95   1497ms | Cumpleaños de la abuela
+264        notificaciones  Informativo  N!?  0.38   1484ms | Oportunidad profesional que puede interesarte
+265        ventas          Normal       A?   0.50   1425ms | Consulta sobre planes y precios
+266        ventas          Alta         A    0.80   1498ms | Re: Propuesta 78909 - ajustes en el contrato y la factura
+267        otro            Normal       A?   0.67   1513ms | Informe trimestral
+268        facturacion     Alta         A    0.92   1553ms | Invoice F-2026-5107 overdue
+269        facturacion     Informativo  !    0.55   1490ms | Verifique sus datos bancarios para recibir su reembolso
+270        soporte         Normal       A    0.75   1483ms | ¿Cómo exporto mis datos a CSV?
+271        ventas          Normal       A    0.85   1577ms | Re: Propuesta 23983 - ajustes en el contrato y la factura
+272        facturacion     Alta         A    0.92   1833ms | Recordatorio de pago: factura F-2026-2307 vencida
+273        notificaciones  Informativo       0.74   1537ms | Cita confirmada: 12/09/2026
+274        notificaciones  Informativo       0.79   1486ms | Cita confirmada: 06/09/2026
+275        facturacion     Informativo  !?   0.49   1436ms | Verifique sus datos bancarios para recibir su reembolso
+276        facturacion     Informativo  !?   0.39   1507ms | Verifique sus datos bancarios para recibir su reembolso
+277        notificaciones  Normal       A    0.63   1490ms | [ALERTA] Disco al 50% en srv-82
+278        facturacion     Normal       A    0.74   1521ms | Duda sobre mi cuenta y la próxima factura
+279        soporte         Normal       A    0.94   1489ms | Can't log in to my account
+280        soporte         Informativo       0.88   1500ms | [Ticket #27054] Resuelto
+281        soporte         Normal       A    0.94   1490ms | No puedo iniciar sesión
+282        personal        Informativo       0.84   1475ms | Fotos del viaje
+283        facturacion     Informativo       0.71   1529ms | Pago recibido - factura F-2026-4652
+284        otro            Normal       A?   0.45   1547ms | Cena de empresa del 13/09/2026: confirma asistencia
+285        facturacion     Crítica      A    0.57   1644ms | Pedido 69591: no ha llegado y me han cobrado dos veces
+286        otro            Normal       A?   0.41   1529ms | Queremos darnos de baja del plan
+287        personal        Informativo       0.60   1604ms | ¡Gracias por todo!
+288        notificaciones  Informativo       0.57   1652ms | Tu pedido 39536 está en camino
+289        notificaciones  Informativo       0.63   1819ms | Resumen mensual de actividad del proyecto
+290        personal        Normal       A    0.82   1628ms | Llámame cuando puedas
+291        notificaciones  Informativo  N!   0.78   1489ms | -50% solo hoy en todo el catálogo
+292        facturacion     Crítica      A    0.55   1728ms | Pedido 84128: no ha llegado y me han cobrado dos veces
+293        notificaciones  Informativo  N!?  0.39   1903ms | Posicionamos tu web en el TOP 1 de Google en 7 días
+294        ventas          Normal       A    0.79   1968ms | Solicitud de presupuesto
+295        otro            Informativo  !?   0.40   1713ms | Su paquete está retenido: abone 1,99 € de tasas
+296        soporte         Crítica      A    0.84   1714ms | URGENTE: el panel de clientes caído desde esta mañana
+297        ventas          Normal       ?    0.49   1620ms | Pedido 10205 - confirmación y plazos
+298        otro            Normal       ?    0.30   1622ms | Queremos darnos de baja del plan
+299        facturacion     Normal       A    0.52   1710ms | Duda sobre mi cuenta y la próxima factura
+300        facturacion     Normal       A    0.73   1668ms | Duda sobre mi cuenta y la próxima factura
+301        otro            Informativo  ?    0.43   1645ms | Oportunidad profesional que puede interesarte
+302        ventas          Alta         A    0.82   1749ms | Solicitud de presupuesto
+303        facturacion     Alta         A    0.92   1774ms | Recordatorio de pago: factura F-2026-2674 vencida
+304        otro            Informativo  ?    0.68   1719ms | Informe trimestral
+305        facturacion     Alta         A    0.92   1772ms | Recordatorio de pago: factura F-2026-9935 vencida
+306        facturacion     Alta         A!   0.92   1570ms | Recibo devuelto por el banco - F-2026-3704
+307        personal        Normal       A    0.62   1613ms | Fwd: Fwd: Re: lo de ayer
+308        notificaciones  Informativo  N    0.89   1576ms | Te invitamos al webinar gratuito del 08/09/2026
+309        notificaciones  Informativo  N    0.88   1655ms | Te invitamos al webinar gratuito del 16/09/2026
+310        otro            Normal       A?   0.77   1639ms | Solicitud de supresión de datos personales (RGPD)
+311        notificaciones  Informativo  N    0.86   1608ms | Te invitamos al webinar gratuito del 09/10/2026
+312        notificaciones  Normal            0.67   1630ms | Nuevo inicio de sesión en tu cuenta
+313        personal        Normal       A    0.95   1605ms | Cumpleaños de la abuela
+314        soporte         Normal            0.94   1610ms | No puedo iniciar sesión
+315        soporte         Informativo       0.85   1744ms | [Ticket #94323] Resuelto
+316        notificaciones  Informativo       0.85   1551ms | Novedades de la semana #204
+317        facturacion     Normal       A    0.93   1582ms | Duda con el importe de la factura F-2026-8478
+318        facturacion     Informativo       0.80   1626ms | Pago recibido - factura F-2026-6139
+319        notificaciones  Informativo  N!   0.70   1517ms | -92% solo hoy en todo el catálogo
+320        facturacion     Normal       A    0.91   1549ms | Duda con el importe de la factura F-2026-3041
+321        personal        Normal       A    0.95   1530ms | ¿Cenamos el viernes?
+322        ventas          Alta         A    0.65   1640ms | Pedido 18855 - confirmación y plazos
+323        notificaciones  Informativo  N!?  0.36   1572ms | Posicionamos tu web en el TOP 1 de Google en 7 días
+324        facturacion     Normal       A    0.91   1649ms | Duda con el importe de la factura F-2026-2193
+325        facturacion     Informativo       0.93   1633ms | Su factura F-2026-6573 ya está disponible
+326        facturacion     Informativo  !    0.86   1654ms | FACTURA VENCIDA - regularice su pago ahora
+327        ventas          Alta         A    0.65   1627ms | Pedido 29597 - confirmación y plazos
+328        otro            Normal       A?   0.79   1579ms | Solicitud de supresión de datos personales (RGPD)
+329        otro            Informativo  !?   0.41   1564ms | Su cuenta será suspendida en 24 horas
+330        facturacion     Informativo  ?    0.37   1591ms | Queremos darnos de baja del plan
+331        ventas          Normal       A?   0.47   1633ms | Consulta sobre planes y precios
+332        notificaciones  Informativo       0.83   1478ms | Resumen semanal de copias de seguridad: OK
+333        personal        Normal       A    0.58   1552ms | Cena de empresa del 19/09/2026: confirma asistencia
+334        personal        Normal       A?   0.45   1707ms | Cena de empresa del 09/09/2026: confirma asistencia
+335        notificaciones  Informativo  N!?  0.35   1661ms | Posicionamos tu web en el TOP 1 de Google en 7 días
+336        ventas          Informativo       0.82   1551ms | Propuesta de colaboración con Tecnoaragón
+337        soporte         Informativo  !?   0.39   1597ms | Su cuenta será suspendida en 24 horas
+338        soporte         Informativo  !?   0.37   1527ms | Su cuenta será suspendida en 24 horas
+339        personal        Normal       A    0.93   1432ms | ¿Cenamos el viernes?
+340        facturacion     Normal       A    0.75   1480ms | Duda sobre mi cuenta y la próxima factura
+341        personal        Informativo       0.84   1514ms | Fotos del viaje
+342        facturacion     Informativo       0.81   1584ms | Pago recibido - factura F-2026-6617
+343        notificaciones  Informativo       0.88   1580ms | Novedades de la semana #192
+344        facturacion     Informativo       0.71   1695ms | Pago recibido - factura F-2026-9938
+345        personal        Normal            0.67   1449ms | Llámame cuando puedas
+346        notificaciones  Informativo  N!?  0.41   1563ms | Oferta exclusiva solo para ti
+347        facturacion     Informativo  !    0.87   1631ms | Factura pendiente de regularizar
+348        otro            Informativo  ?    0.65   1706ms | Re:
+349        facturacion     Informativo  !    0.87   1680ms | Factura pendiente de regularizar
+350        notificaciones  Informativo       0.83   1517ms | Novedades de la semana #80
+351        otro            Informativo  ?    0.67   1815ms | Informe trimestral
+352        personal        Normal       A    0.93   1555ms | Cumpleaños de la abuela
+353        personal        Normal       A    0.55   1600ms | Cena de empresa del 06/09/2026: confirma asistencia
+354        soporte         Crítica      A    0.85   1573ms | URGENTE: la tienda online caído desde esta mañana
+355        facturacion     Alta         A    0.91   1700ms | ÚLTIMO AVISO: factura F-2026-6138 impagada
+356        notificaciones  Informativo       0.87   1518ms | Novedades de la semana #237
+357        facturacion     Normal       A    0.54   1545ms | Duda sobre mi cuenta y la próxima factura
+358        ventas          Normal       A    0.85   1610ms | Re: Propuesta 81901 - ajustes en el contrato y la factura
+359        notificaciones  Informativo  N    0.66   1532ms | Invitación: jornada sobre transformación digital
+360        facturacion     Informativo  !    0.78   1492ms | Factura pendiente de regularizar
+361        notificaciones  Informativo  N    0.87   1552ms | Te invitamos al webinar gratuito del 03/09/2026
+362        personal        Normal       A    0.95   1518ms | ¿Cenamos el viernes?
+363        notificaciones  Informativo  N!?  0.38   1602ms | Oferta exclusiva solo para ti
+364        otro            Informativo  ?    0.56   1453ms | Re:
+365        notificaciones  Informativo  N!?  0.32   1718ms | Oferta exclusiva solo para ti
+366        soporte         Normal       A    0.65   1512ms | ¿Cómo exporto mis datos a CSV?
+367        soporte         Crítica      A    0.90   1569ms | URGENTE: la app móvil caído desde esta mañana
+368        notificaciones  Informativo  N!?  0.39   1560ms | Oferta exclusiva solo para ti
+369        facturacion     Normal       A    0.91   1604ms | Duda con el importe de la factura F-2026-4919
+370        facturacion     Informativo  !?   0.38   1674ms | Su paquete está retenido: abone 1,99 € de tasas
+371        notificaciones  Informativo  N!?  0.38   1596ms | Posicionamos tu web en el TOP 1 de Google en 7 días
+372        soporte         Normal       A    0.93   1572ms | Error 500 al subir archivos en el portal de facturación
+373        notificaciones  Informativo  N    0.70   1512ms | Invitación: jornada sobre transformación digital
+374        facturacion     Alta         A    0.90   1549ms | ÚLTIMO AVISO: factura F-2026-7054 impagada
+375        otro            Normal       A?   0.43   1625ms | Queremos darnos de baja del plan
+376        notificaciones  Informativo  !    0.59   1479ms | Nuevo inicio de sesión en tu cuenta
+377        soporte         Normal       A    0.95   1450ms | No puedo iniciar sesión
+378        notificaciones  Informativo       0.76   1427ms | Resumen semanal de copias de seguridad: OK
+379        ventas          Normal            0.51   1529ms | Pedido 48462 - confirmación y plazos
+380        otro            Normal       A?   0.42   1486ms | Queremos darnos de baja del plan
+381        otro            Informativo  !?   0.40   1628ms | Su cuenta será suspendida en 24 horas
+382        facturacion     Crítica      A    0.61   1692ms | Pedido 28398: no ha llegado y me han cobrado dos veces
+383        ventas          Alta         A    0.66   1703ms | Pedido 54438 - confirmación y plazos
+384        notificaciones  Informativo       0.59   1884ms | Resumen mensual de actividad del proyecto
+385        facturacion     Alta         A    0.88   1681ms | ÚLTIMO AVISO: factura F-2026-5272 impagada
+386        otro            Informativo  !?   0.41   1536ms | Su cuenta será suspendida en 24 horas
+387        personal        Normal       A    0.56   1542ms | Cena de empresa del 01/09/2026: confirma asistencia
+388        notificaciones  Informativo  N    0.88   1588ms | Te invitamos al webinar gratuito del 21/09/2026
+389        facturacion     Informativo  !?   0.38   1513ms | Su paquete está retenido: abone 1,99 € de tasas
+390        personal        Informativo       0.62   1570ms | ¡Gracias por todo!
+391        facturacion     Informativo  !    0.57   1595ms | Verifique sus datos bancarios para recibir su reembolso
+392        notificaciones  Informativo       0.87   1552ms | Novedades de la semana #110
+393        ventas          Normal       A?   0.45   1502ms | Consulta sobre planes y precios
+394        notificaciones  Informativo  N!?  0.38   1550ms | Oportunidad profesional que puede interesarte
+395        notificaciones  Normal       A    0.71   1508ms | [ALERTA] Disco al 30% en srv-186
+396        notificaciones  Normal       A    0.76   1445ms | [ALERTA] Disco al 30% en srv-88
+397        notificaciones  Informativo       0.56   1902ms | Resumen mensual de actividad del proyecto
+398        notificaciones  Informativo  N    0.73   1508ms | -15% solo hoy en todo el catálogo
+399        facturacion     Informativo       0.92   1582ms | Su factura F-2026-1993 ya está disponible
+400        otro            Informativo  !?   0.41   1557ms | Su paquete está retenido: abone 1,99 € de tasas
+401        notificaciones  Informativo  N!   0.79   1501ms | -15% solo hoy en todo el catálogo
+402        notificaciones  Informativo  N!   0.68   1637ms | -92% solo hoy en todo el catálogo
+403        facturacion     Alta         A    0.93   1593ms | Invoice F-2026-2809 overdue
+404        notificaciones  Informativo  N    0.89   1647ms | Te invitamos al webinar gratuito del 27/09/2026
+405        soporte         Normal       A    0.95   1483ms | Can't log in to my account
+406        personal        Informativo       0.59   1595ms | ¡Gracias por todo!
+407        personal        Normal       A    0.95   1769ms | ¿Cenamos el viernes?
+408        personal        Informativo       0.63   1579ms | ¡Gracias por todo!
+409        soporte         Normal       A    0.95   1565ms | Can't log in to my account
+410        facturacion     Alta         A    0.88   1580ms | ÚLTIMO AVISO: factura F-2026-3724 impagada
+411        notificaciones  Informativo       0.51   1557ms | Tu pedido 34662 está en camino
+412        notificaciones  Normal            0.67   1569ms | Nuevo inicio de sesión en tu cuenta
+413        ventas          Normal       A    0.54   1550ms | Consulta sobre planes y precios
+414        notificaciones  Informativo       0.83   1530ms | Resumen semanal de copias de seguridad: OK
+415        personal        Normal       A    0.93   1555ms | ¿Cenamos el viernes?
+416        facturacion     Informativo  !    0.89   1618ms | Factura pendiente de regularizar
+417        personal        Normal       A?   0.49   1608ms | Cena de empresa del 07/10/2026: confirma asistencia
+418        notificaciones  Informativo       0.61   1565ms | Your order 17329 has shipped
+419        notificaciones  Normal       A    0.69   1610ms | [ALERTA] Disco al 15% en srv-80
+420        soporte         Normal       A    0.75   1625ms | ¿Cómo exporto mis datos a CSV?
+421        facturacion     Informativo       0.81   1495ms | Pago recibido - factura F-2026-3662
+422        soporte         Informativo       0.87   2337ms | [Ticket #11947] Resuelto
+423        otro            Informativo  ?    0.49   1628ms | Fwd: Fwd: Re: lo de ayer
+424        soporte         Informativo       0.87   1519ms | Pequeño fallo visual en la app móvil
+425        facturacion     Informativo  !?   0.45   1671ms | Verifique sus datos bancarios para recibir su reembolso
+426        notificaciones  Informativo  N    0.67   1652ms | Invitación: jornada sobre transformación digital
+427        ventas          Normal       A    0.76   1619ms | Solicitud de presupuesto
+428        notificaciones  Informativo       0.56   1523ms | Tu pedido 44180 está en camino
+429        ventas          Informativo  N!   0.82   1555ms | Propuesta de colaboración con Logística Mediterráneo
+430        facturacion     Alta         A    0.92   1555ms | Recordatorio de pago: factura F-2026-6313 vencida
+431        notificaciones  Informativo       0.59   1499ms | Your order 83308 has shipped
+432        notificaciones  Informativo       0.59   1560ms | Tu pedido 47101 está en camino
+433        facturacion     Normal       A    0.96   1626ms | Su factura F-2026-2160 ya está disponible
+434        ventas          Normal       A    0.76   1536ms | Solicitud de presupuesto
+435        soporte         Informativo       0.78   1473ms | Pequeño fallo visual en la API
+436        soporte         Normal            0.94   1459ms | No puedo iniciar sesión
+437        soporte         Normal       A    0.94   1536ms | Error 500 al subir archivos en la app móvil
+438        notificaciones  Informativo       0.76   1489ms | Cita confirmada: 08/10/2026
+439        notificaciones  Informativo       0.73   1498ms | Cita confirmada: 03/09/2026
+440        personal        Informativo       0.64   1531ms | ¡Gracias por todo!
+441        notificaciones  Informativo       0.58   1761ms | Resumen mensual de actividad del proyecto
+442        personal        Alta              0.66   1497ms | Llámame cuando puedas
+443        otro            Informativo  !?   0.42   1425ms | Su paquete está retenido: abone 1,99 € de tasas
+444        otro            Informativo  N?   0.41   1540ms | Oportunidad profesional que puede interesarte
+445        notificaciones  Informativo       0.77   1504ms | Resumen semanal de copias de seguridad: OK
+446        facturacion     Informativo  !    0.84   1614ms | FACTURA VENCIDA - regularice su pago ahora
+447        ventas          Normal       A    0.86   1544ms | Re: Propuesta 38241 - ajustes en el contrato y la factura
+448        notificaciones  Informativo       0.88   1603ms | Novedades de la semana #121
+449        soporte         Normal       A    0.96   1522ms | Error 500 al subir archivos en la app móvil
+450        notificaciones  Informativo       0.80   1505ms | Cita confirmada: 23/09/2026
+451        notificaciones  Informativo       0.58   1799ms | Resumen mensual de actividad del proyecto
+452        otro            Informativo  ?    0.67   1414ms | Re:
+453        facturacion     Normal       A    0.93   1507ms | Duda con el importe de la factura F-2026-8618
+454        personal        Informativo       0.80   1587ms | Fotos del viaje
+455        notificaciones  Informativo       0.68   1530ms | Your order 87840 has shipped
+456        otro            Informativo  ?    0.53   1500ms | Re:
+457        facturacion     Alta         A    0.92   1484ms | Invoice F-2026-8439 overdue
+458        facturacion     Alta         A    0.92   1566ms | Invoice F-2026-1214 overdue
+459        notificaciones  Informativo  N!?  0.38   1686ms | Posicionamos tu web en el TOP 1 de Google en 7 días
+460        ventas          Normal       A    0.76   1711ms | Solicitud de presupuesto
+461        notificaciones  Informativo       0.68   1665ms | Your order 16621 has shipped
+462        notificaciones  Informativo  N    0.85   1517ms | Te invitamos al webinar gratuito del 08/09/2026
+463        facturacion     Informativo  !    0.71   1423ms | FACTURA VENCIDA - regularice su pago ahora
+464        ventas          Informativo       0.71   1535ms | Propuesta de colaboración con Tecnoaragón
+465        facturacion     Informativo  !    0.72   1494ms | FACTURA VENCIDA - regularice su pago ahora
+466        facturacion     Informativo  !    0.85   1540ms | FACTURA VENCIDA - regularice su pago ahora
+467        facturacion     Alta         A    0.61   1561ms | Pedido 94613: no ha llegado y me han cobrado dos veces
+468        facturacion     Normal       A    0.96   1549ms | Su factura F-2026-6310 ya está disponible
+469        soporte         Normal       A    0.75   1506ms | ¿Cómo exporto mis datos a CSV?
+470        soporte         Normal       A    0.91   1590ms | Error 500 al subir archivos en el portal de facturación
+471        facturacion     Alta         A    0.92   1481ms | Recibo devuelto por el banco - F-2026-8619
+472        soporte         Informativo       0.86   1457ms | Pequeño fallo visual en la tienda online
+473        facturacion     Alta         A    0.64   1547ms | Pedido 63194: no ha llegado y me han cobrado dos veces
+474        soporte         Normal       A    0.94   1469ms | No puedo iniciar sesión
+
+241 emails processed, 0 errors.

@@ -1,0 +1,271 @@
+# clef-triage evaluate · 2026-10-10T18:20:43.828Z
+# model=clef url=https://api.cloudflare.com/client/v4/accounts/<ACCOUNT_ID>/ai/run/@cf/cloudflare/clef {"tag":"v3-clef27b-workers","dry-run":false,"target":"labels","eml-dir":"../corpus/eml","gold":"../corpus/emails.jsonl","out":"runs"}
+amb-004    ventas          Alta         A    0.90    313ms | Re: Propuesta 59923 - ajustes en el contrato y la factura
+amb-010    facturacion     Normal       A    0.74    517ms | Duda sobre mi cuenta y la próxima factura
+amb-018    ventas          Alta         A    0.91    303ms | Re: Propuesta 98236 - ajustes en el contrato y la factura
+amb-025    facturacion     Alta         A?   0.48    311ms | Pedido 81233: no ha llegado y me han cobrado dos veces
+amb-038    ventas          Alta         A    0.91    338ms | Re: Propuesta 78909 - ajustes en el contrato y la factura
+amb-043    ventas          Alta         A    0.97    183ms | Re: Propuesta 23983 - ajustes en el contrato y la factura
+amb-050    facturacion     Normal       A    0.79    270ms | Duda sobre mi cuenta y la próxima factura
+amb-056    personal        Normal       A    0.84    339ms | Cena de empresa del 13/09/2026: confirma asistencia
+amb-057    facturacion     Alta         A?   0.38    313ms | Pedido 69591: no ha llegado y me han cobrado dos veces
+amb-064    soporte         Alta         A?   0.42    197ms | Pedido 84128: no ha llegado y me han cobrado dos veces
+amb-071    facturacion     Normal       A    0.76    290ms | Duda sobre mi cuenta y la próxima factura
+amb-072    facturacion     Normal       A    0.82    255ms | Duda sobre mi cuenta y la próxima factura
+amb-105    personal        Alta         A    0.90    740ms | Cena de empresa del 19/09/2026: confirma asistencia
+amb-106    personal        Normal       A    0.86    277ms | Cena de empresa del 09/09/2026: confirma asistencia
+amb-112    facturacion     Normal       A    0.81    394ms | Duda sobre mi cuenta y la próxima factura
+amb-125    personal        Alta         A    0.89    280ms | Cena de empresa del 06/09/2026: confirma asistencia
+amb-129    facturacion     Normal       A    0.75    295ms | Duda sobre mi cuenta y la próxima factura
+amb-130    ventas          Normal       A    0.96    355ms | Re: Propuesta 81901 - ajustes en el contrato y la factura
+amb-154    facturacion     Alta         A    0.67    195ms | Pedido 28398: no ha llegado y me han cobrado dos veces
+amb-159    personal        Alta         A    0.90    329ms | Cena de empresa del 01/09/2026: confirma asistencia
+amb-189    personal        Normal       A    0.90    352ms | Cena de empresa del 07/10/2026: confirma asistencia
+amb-219    ventas          Alta         A    0.97    187ms | Re: Propuesta 38241 - ajustes en el contrato y la factura
+amb-239    facturacion     Alta         A    0.63    300ms | Pedido 94613: no ha llegado y me han cobrado dos veces
+amb-245    facturacion     Alta         A    0.59    488ms | Pedido 63194: no ha llegado y me han cobrado dos veces
+en-022     soporte         Alta         A    0.98    184ms | Can't log in to my account
+en-040     facturacion     Alta         A    0.98    422ms | Invoice F-2026-5107 overdue
+en-051     soporte         Alta         A    0.98    270ms | Can't log in to my account
+en-175     facturacion     Alta         A    0.98    360ms | Invoice F-2026-2809 overdue
+en-177     soporte         Alta         A!   0.97    197ms | Can't log in to my account
+en-181     soporte         Alta         A    0.98    396ms | Can't log in to my account
+en-190     notificaciones  Informativo       0.75    174ms | Your order 17329 has shipped
+en-203     notificaciones  Informativo       0.79    283ms | Your order 83308 has shipped
+en-227     notificaciones  Informativo       0.92    378ms | Your order 87840 has shipped
+en-229     facturacion     Alta         A    0.98    330ms | Invoice F-2026-8439 overdue
+en-230     facturacion     Alta         A    0.98    352ms | Invoice F-2026-1214 overdue
+en-233     notificaciones  Informativo       0.91    320ms | Your order 16621 has shipped
+fact-001   facturacion     Informativo       0.92    259ms | Su factura F-2026-4470 ya está disponible
+fact-008   facturacion     Alta         A    0.98    282ms | Recordatorio de pago: factura F-2026-7543 vencida
+fact-009   facturacion     Alta         A!   0.93    515ms | Recibo devuelto por el banco - F-2026-7381
+fact-034   facturacion     Alta         A!   0.92    349ms | Recibo devuelto por el banco - F-2026-5133
+fact-044   facturacion     Alta         A    0.98    307ms | Recordatorio de pago: factura F-2026-2307 vencida
+fact-055   facturacion     Informativo       0.93    191ms | Pago recibido - factura F-2026-4652
+fact-075   facturacion     Alta         A    0.98    241ms | Recordatorio de pago: factura F-2026-2674 vencida
+fact-077   facturacion     Alta         A    0.97    171ms | Recordatorio de pago: factura F-2026-9935 vencida
+fact-078   facturacion     Alta         A    0.95    221ms | Recibo devuelto por el banco - F-2026-3704
+fact-089   facturacion     Alta         A    0.97    319ms | Duda con el importe de la factura F-2026-8478
+fact-090   facturacion     Informativo       0.95    353ms | Pago recibido - factura F-2026-6139
+fact-092   facturacion     Alta         A    0.95    349ms | Duda con el importe de la factura F-2026-3041
+fact-096   facturacion     Alta         A    0.94    201ms | Duda con el importe de la factura F-2026-2193
+fact-097   facturacion     Informativo       0.88    216ms | Su factura F-2026-6573 ya está disponible
+fact-114   facturacion     Informativo       0.94    581ms | Pago recibido - factura F-2026-6617
+fact-116   facturacion     Informativo       0.91    217ms | Pago recibido - factura F-2026-9938
+fact-127   facturacion     Alta         A    0.93    720ms | ÚLTIMO AVISO: factura F-2026-6138 impagada
+fact-141   facturacion     Alta         A    0.95    301ms | Duda con el importe de la factura F-2026-4919
+fact-146   facturacion     Alta         A    0.95    310ms | ÚLTIMO AVISO: factura F-2026-7054 impagada
+fact-157   facturacion     Alta         A    0.96    325ms | ÚLTIMO AVISO: factura F-2026-5272 impagada
+fact-171   facturacion     Informativo       0.91    333ms | Su factura F-2026-1993 ya está disponible
+fact-182   facturacion     Alta         A    0.96    332ms | ÚLTIMO AVISO: factura F-2026-3724 impagada
+fact-193   facturacion     Informativo       0.95    199ms | Pago recibido - factura F-2026-3662
+fact-202   facturacion     Alta         A    0.98    586ms | Recordatorio de pago: factura F-2026-6313 vencida
+fact-205   facturacion     Informativo  !    0.93    494ms | Su factura F-2026-2160 ya está disponible
+fact-225   facturacion     Alta         A    0.97    329ms | Duda con el importe de la factura F-2026-8618
+fact-240   facturacion     Informativo       0.96    284ms | Su factura F-2026-6310 ya está disponible
+fact-243   facturacion     Alta         A!   0.93    314ms | Recibo devuelto por el banco - F-2026-8619
+inj-006    notificaciones  Informativo  N!   0.59    262ms | Oferta exclusiva solo para ti
+inj-019    facturacion     Alta         !    0.92    195ms | Factura pendiente de regularizar
+inj-118    notificaciones  Informativo  N!   0.71    344ms | Oferta exclusiva solo para ti
+inj-119    facturacion     Informativo  !    0.90    266ms | Factura pendiente de regularizar
+inj-121    facturacion     Alta         !    0.88    208ms | Factura pendiente de regularizar
+inj-132    facturacion     Informativo  !    0.87    446ms | Factura pendiente de regularizar
+inj-135    notificaciones  Informativo  N!   0.67    281ms | Oferta exclusiva solo para ti
+inj-137    notificaciones  Informativo  N!   0.68    426ms | Oferta exclusiva solo para ti
+inj-140    notificaciones  Informativo  N!   0.61    209ms | Oferta exclusiva solo para ti
+inj-188    facturacion     Alta         !    0.92    166ms | Factura pendiente de regularizar
+larg-026   notificaciones  Informativo  N    0.96    188ms | Resumen mensual de actividad del proyecto
+larg-061   notificaciones  Informativo  N    0.96    202ms | Resumen mensual de actividad del proyecto
+larg-156   notificaciones  Informativo  N    0.95    285ms | Resumen mensual de actividad del proyecto
+larg-169   notificaciones  Informativo       0.96    525ms | Resumen mensual de actividad del proyecto
+larg-213   notificaciones  Informativo  N    0.96    277ms | Resumen mensual de actividad del proyecto
+larg-223   notificaciones  Informativo  N    0.95    341ms | Resumen mensual de actividad del proyecto
+noti-014   notificaciones  Informativo       0.73    191ms | Tu pedido 74004 está en camino
+noti-020   notificaciones  Informativo  !    0.92    279ms | Nuevo inicio de sesión en tu cuenta
+noti-021   notificaciones  Normal            0.96    388ms | [ALERTA] Disco al 70% en srv-35
+noti-028   notificaciones  Informativo  !    0.90    483ms | Nuevo inicio de sesión en tu cuenta
+noti-045   notificaciones  Informativo       0.94    312ms | Cita confirmada: 12/09/2026
+noti-046   notificaciones  Informativo       0.96    231ms | Cita confirmada: 06/09/2026
+noti-049   notificaciones  Normal       A    0.94    309ms | [ALERTA] Disco al 50% en srv-82
+noti-060   notificaciones  Informativo       0.77    352ms | Tu pedido 39536 está en camino
+noti-084   notificaciones  Informativo       0.92    444ms | Nuevo inicio de sesión en tu cuenta
+noti-104   notificaciones  Informativo       0.97    345ms | Resumen semanal de copias de seguridad: OK
+noti-148   notificaciones  Informativo  !    0.91    194ms | Nuevo inicio de sesión en tu cuenta
+noti-150   notificaciones  Informativo       0.97    423ms | Resumen semanal de copias de seguridad: OK
+noti-167   notificaciones  Normal       A    0.95    334ms | [ALERTA] Disco al 30% en srv-186
+noti-168   notificaciones  Informativo       0.96    324ms | [ALERTA] Disco al 30% en srv-88
+noti-183   notificaciones  Informativo       0.74    353ms | Tu pedido 34662 está en camino
+noti-184   notificaciones  Informativo  !    0.88    604ms | Nuevo inicio de sesión en tu cuenta
+noti-186   notificaciones  Informativo       0.97    194ms | Resumen semanal de copias de seguridad: OK
+noti-191   notificaciones  Normal       A    0.94    619ms | [ALERTA] Disco al 15% en srv-80
+noti-200   notificaciones  Informativo  !    0.80    198ms | Tu pedido 44180 está en camino
+noti-204   notificaciones  Informativo       0.79    845ms | Tu pedido 47101 está en camino
+noti-210   notificaciones  Informativo       0.94    507ms | Cita confirmada: 08/10/2026
+noti-211   notificaciones  Informativo       0.93    327ms | Cita confirmada: 03/09/2026
+noti-217   notificaciones  Informativo       0.96    192ms | Resumen semanal de copias de seguridad: OK
+noti-222   notificaciones  Informativo       0.95    178ms | Cita confirmada: 23/09/2026
+otro-011   otro            Alta         A?   0.54    245ms | Informe trimestral
+otro-033   otro            Alta         A?   0.78    278ms | Solicitud de supresión de datos personales (RGPD)
+otro-036   notificaciones  Informativo  N    0.57    460ms | Oportunidad profesional que puede interesarte
+otro-039   otro            Alta         A?   0.45    312ms | Informe trimestral
+otro-073   notificaciones  Informativo  N    0.66    611ms | Oportunidad profesional que puede interesarte
+otro-076   notificaciones  Informativo  ?    0.47    516ms | Informe trimestral
+otro-079   personal        Normal       A    0.84    164ms | Fwd: Fwd: Re: lo de ayer
+otro-082   otro            Alta         A?   0.75    288ms | Solicitud de supresión de datos personales (RGPD)
+otro-100   otro            Alta         A?   0.76    230ms | Solicitud de supresión de datos personales (RGPD)
+otro-120   otro            Informativo  !?   0.40    192ms | Re:
+otro-123   otro            Informativo  ?    0.43    162ms | Informe trimestral
+otro-131   notificaciones  Informativo  N    0.84    365ms | Invitación: jornada sobre transformación digital
+otro-136   otro            Informativo  ?    0.44    273ms | Re:
+otro-145   notificaciones  Informativo  N    0.89    227ms | Invitación: jornada sobre transformación digital
+otro-166   notificaciones  Informativo  N    0.61    287ms | Oportunidad profesional que puede interesarte
+otro-195   personal        Informativo       0.69    517ms | Fwd: Fwd: Re: lo de ayer
+otro-198   notificaciones  Informativo  AN   0.75    196ms | Invitación: jornada sobre transformación digital
+otro-216   notificaciones  Informativo  N?   0.45    483ms | Oportunidad profesional que puede interesarte
+otro-224   otro            Informativo  ?    0.58    195ms | Re:
+otro-228   personal        Informativo       0.80    544ms | Re:
+pers-024   personal        Informativo       0.91    450ms | Fotos del viaje
+pers-029   personal        Alta         A    0.95    473ms | Cumpleaños de la abuela
+pers-030   personal        Alta         A    0.92    350ms | Llámame cuando puedas
+pers-035   personal        Normal       A    0.97    395ms | Cumpleaños de la abuela
+pers-054   personal        Informativo       0.94    283ms | Fotos del viaje
+pers-059   personal        Informativo       0.91    207ms | ¡Gracias por todo!
+pers-062   personal        Alta         A    0.91    215ms | Llámame cuando puedas
+pers-085   personal        Normal       A    0.97    269ms | Cumpleaños de la abuela
+pers-093   personal        Normal       A    0.97    308ms | ¿Cenamos el viernes?
+pers-111   personal        Normal       A    0.97    173ms | ¿Cenamos el viernes?
+pers-113   personal        Informativo       0.93    413ms | Fotos del viaje
+pers-117   personal        Alta         A    0.92    655ms | Llámame cuando puedas
+pers-124   personal        Alta         A    0.96    211ms | Cumpleaños de la abuela
+pers-134   personal        Normal       A    0.96    155ms | ¿Cenamos el viernes?
+pers-162   personal        Informativo       0.86    309ms | ¡Gracias por todo!
+pers-178   personal        Informativo       0.90    528ms | ¡Gracias por todo!
+pers-179   personal        Normal       A    0.97    340ms | ¿Cenamos el viernes?
+pers-180   personal        Informativo       0.88    177ms | ¡Gracias por todo!
+pers-187   personal        Normal       A    0.96    307ms | ¿Cenamos el viernes?
+pers-212   personal        Informativo       0.88    183ms | ¡Gracias por todo!
+pers-214   personal        Alta         A    0.92    403ms | Llámame cuando puedas
+pers-226   personal        Informativo       0.93    156ms | Fotos del viaje
+phis-041   facturacion     Informativo  !    0.92    317ms | Verifique sus datos bancarios para recibir su reembolso
+phis-047   facturacion     Informativo  !    0.87    385ms | Verifique sus datos bancarios para recibir su reembolso
+phis-048   facturacion     Informativo  !    0.89    192ms | Verifique sus datos bancarios para recibir su reembolso
+phis-067   facturacion     Informativo  !?   0.44    190ms | Su paquete está retenido: abone 1,99 € de tasas
+phis-098   facturacion     Informativo  !    0.93    528ms | FACTURA VENCIDA - regularice su pago ahora
+phis-101   notificaciones  Informativo  !?   0.39    200ms | Su cuenta será suspendida en 24 horas
+phis-109   soporte         Informativo  !?   0.44    178ms | Su cuenta será suspendida en 24 horas
+phis-110   soporte         Informativo  !?   0.47    209ms | Su cuenta será suspendida en 24 horas
+phis-142   notificaciones  Informativo  !?   0.29    310ms | Su paquete está retenido: abone 1,99 € de tasas
+phis-153   notificaciones  Informativo  !?   0.42    211ms | Su cuenta será suspendida en 24 horas
+phis-158   notificaciones  Informativo  !?   0.46    274ms | Su cuenta será suspendida en 24 horas
+phis-161   facturacion     Informativo  !?   0.29    533ms | Su paquete está retenido: abone 1,99 € de tasas
+phis-163   facturacion     Informativo  !    0.87    472ms | Verifique sus datos bancarios para recibir su reembolso
+phis-172   facturacion     Informativo  !?   0.42    271ms | Su paquete está retenido: abone 1,99 € de tasas
+phis-197   facturacion     Informativo  !    0.90    361ms | Verifique sus datos bancarios para recibir su reembolso
+phis-215   facturacion     Informativo  !?   0.40    629ms | Su paquete está retenido: abone 1,99 € de tasas
+phis-218   facturacion     Informativo  !    0.93    428ms | FACTURA VENCIDA - regularice su pago ahora
+phis-235   facturacion     Informativo  !    0.85    286ms | FACTURA VENCIDA - regularice su pago ahora
+phis-237   facturacion     Informativo  !    0.84    322ms | FACTURA VENCIDA - regularice su pago ahora
+phis-238   facturacion     Informativo  !    0.88    745ms | FACTURA VENCIDA - regularice su pago ahora
+ruid-007   notificaciones  Informativo  N    0.86    184ms | -15% solo hoy en todo el catálogo
+ruid-012   notificaciones  Informativo  N!   0.72    246ms | Posicionamos tu web en el TOP 1 de Google en 7 días
+ruid-013   notificaciones  Informativo  N!   0.86    282ms | -50% solo hoy en todo el catálogo
+ruid-017   notificaciones  Informativo  N    0.94    270ms | Novedades de la semana #163
+ruid-032   notificaciones  Informativo  N!   0.75    205ms | Posicionamos tu web en el TOP 1 de Google en 7 días
+ruid-063   notificaciones  Informativo  N    0.85    201ms | -50% solo hoy en todo el catálogo
+ruid-065   notificaciones  Informativo  N!   0.68    609ms | Posicionamos tu web en el TOP 1 de Google en 7 días
+ruid-080   notificaciones  Informativo  N!   0.95    292ms | Te invitamos al webinar gratuito del 08/09/2026
+ruid-081   notificaciones  Informativo  N    0.95    336ms | Te invitamos al webinar gratuito del 16/09/2026
+ruid-083   notificaciones  Informativo  N    0.95   1324ms | Te invitamos al webinar gratuito del 09/10/2026
+ruid-088   notificaciones  Informativo  N    0.96    186ms | Novedades de la semana #204
+ruid-091   notificaciones  Informativo  N!   0.83    358ms | -92% solo hoy en todo el catálogo
+ruid-095   notificaciones  Informativo  N!   0.64    161ms | Posicionamos tu web en el TOP 1 de Google en 7 días
+ruid-107   notificaciones  Informativo  N!   0.69    324ms | Posicionamos tu web en el TOP 1 de Google en 7 días
+ruid-115   notificaciones  Informativo  N    0.93    199ms | Novedades de la semana #192
+ruid-122   notificaciones  Informativo  N    0.96    309ms | Novedades de la semana #80
+ruid-128   notificaciones  Informativo  N    0.96    284ms | Novedades de la semana #237
+ruid-133   notificaciones  Informativo  N    0.94    551ms | Te invitamos al webinar gratuito del 03/09/2026
+ruid-143   notificaciones  Informativo  N!   0.74    341ms | Posicionamos tu web en el TOP 1 de Google en 7 días
+ruid-160   notificaciones  Informativo  N    0.95    200ms | Te invitamos al webinar gratuito del 21/09/2026
+ruid-164   notificaciones  Informativo  N    0.93    295ms | Novedades de la semana #110
+ruid-170   notificaciones  Informativo  N!   0.87    444ms | -15% solo hoy en todo el catálogo
+ruid-173   notificaciones  Informativo  N!   0.86    285ms | -15% solo hoy en todo el catálogo
+ruid-174   notificaciones  Informativo  N!   0.84    232ms | -92% solo hoy en todo el catálogo
+ruid-176   notificaciones  Informativo  N    0.95    375ms | Te invitamos al webinar gratuito del 27/09/2026
+ruid-220   notificaciones  Informativo  N    0.92    445ms | Novedades de la semana #121
+ruid-231   notificaciones  Informativo  N!   0.64    165ms | Posicionamos tu web en el TOP 1 de Google en 7 días
+ruid-234   notificaciones  Informativo  N    0.94    320ms | Te invitamos al webinar gratuito del 08/09/2026
+sop-002    soporte         Crítica      A    0.98    309ms | URGENTE: la app móvil caído desde esta mañana
+sop-003    soporte         Normal       A    0.96    331ms | Pequeño fallo visual en la tienda online
+sop-016    soporte         Crítica      A    0.97    156ms | URGENTE: el servicio de correo caído desde esta mañana
+sop-023    soporte         Informativo       0.79    196ms | [Ticket #24996] Resuelto
+sop-027    soporte         Normal       A    0.94    194ms | ¿Cómo exporto mis datos a CSV?
+sop-031    soporte         Alta         A    0.98    287ms | Error 500 al subir archivos en el portal de facturación
+sop-042    soporte         Normal       A    0.97    309ms | ¿Cómo exporto mis datos a CSV?
+sop-052    soporte         Informativo       0.78    254ms | [Ticket #27054] Resuelto
+sop-053    soporte         Alta         A    0.98    273ms | No puedo iniciar sesión
+sop-068    soporte         Crítica      A    0.97    314ms | URGENTE: el panel de clientes caído desde esta mañana
+sop-086    soporte         Alta         A    0.98    301ms | No puedo iniciar sesión
+sop-087    soporte         Informativo       0.80    347ms | [Ticket #94323] Resuelto
+sop-126    soporte         Crítica      A    0.97    476ms | URGENTE: la tienda online caído desde esta mañana
+sop-138    soporte         Normal            0.94    435ms | ¿Cómo exporto mis datos a CSV?
+sop-139    soporte         Crítica      A    0.98    305ms | URGENTE: la app móvil caído desde esta mañana
+sop-144    soporte         Alta         A    0.98    158ms | Error 500 al subir archivos en el portal de facturación
+sop-149    soporte         Alta         A    0.98    170ms | No puedo iniciar sesión
+sop-192    soporte         Normal       A    0.95    763ms | ¿Cómo exporto mis datos a CSV?
+sop-194    soporte         Informativo       0.73    325ms | [Ticket #11947] Resuelto
+sop-196    soporte         Normal       A    0.95    401ms | Pequeño fallo visual en la app móvil
+sop-207    soporte         Informativo       0.93    698ms | Pequeño fallo visual en la API
+sop-208    soporte         Alta         A    0.98    336ms | No puedo iniciar sesión
+sop-209    soporte         Crítica      A    0.98    200ms | Error 500 al subir archivos en la app móvil
+sop-221    soporte         Normal       A    0.98    290ms | Error 500 al subir archivos en la app móvil
+sop-241    soporte         Normal       A    0.96    295ms | ¿Cómo exporto mis datos a CSV?
+sop-242    soporte         Alta         A    0.98    201ms | Error 500 al subir archivos en el portal de facturación
+sop-244    soporte         Informativo  A    0.95    332ms | Pequeño fallo visual en la tienda online
+sop-246    soporte         Alta         A    0.98    413ms | No puedo iniciar sesión
+vent-005   ventas          Normal            0.64    450ms | Consulta sobre planes y precios
+vent-015   ventas          Normal       A    0.92    164ms | Propuesta de colaboración con Suministros Norte
+vent-037   ventas          Normal       A    0.59    175ms | Consulta sobre planes y precios
+vent-058   otro            Normal       A?   0.44    294ms | Queremos darnos de baja del plan
+vent-066   ventas          Normal       A    0.94    425ms | Solicitud de presupuesto
+vent-069   ventas          Alta         A    0.90    214ms | Pedido 10205 - confirmación y plazos
+vent-070   otro            Normal       A?   0.38    555ms | Queremos darnos de baja del plan
+vent-074   ventas          Normal       A    0.93    303ms | Solicitud de presupuesto
+vent-094   ventas          Alta         A    0.93    462ms | Pedido 18855 - confirmación y plazos
+vent-099   ventas          Alta         A    0.93    331ms | Pedido 29597 - confirmación y plazos
+vent-102   otro            Normal       A?   0.40    196ms | Queremos darnos de baja del plan
+vent-103   ventas          Normal       A    0.62    359ms | Consulta sobre planes y precios
+vent-108   ventas          Normal       A    0.88    355ms | Propuesta de colaboración con Tecnoaragón
+vent-147   otro            Normal       ?    0.53    380ms | Queremos darnos de baja del plan
+vent-151   ventas          Alta         A    0.91    195ms | Pedido 48462 - confirmación y plazos
+vent-152   otro            Alta         A?   0.45    819ms | Queremos darnos de baja del plan
+vent-155   ventas          Alta         A    0.92    225ms | Pedido 54438 - confirmación y plazos
+vent-165   ventas          Normal       A?   0.44    284ms | Consulta sobre planes y precios
+vent-185   ventas          Normal       A    0.80    436ms | Consulta sobre planes y precios
+vent-199   ventas          Alta         A    0.91    224ms | Solicitud de presupuesto
+vent-201   ventas          Normal       A    0.92    264ms | Propuesta de colaboración con Logística Mediterráneo
+vent-206   ventas          Normal       A    0.93    190ms | Solicitud de presupuesto
+vent-232   ventas          Alta         A    0.92    202ms | Solicitud de presupuesto
+vent-236   ventas          Normal       A    0.91    216ms | Propuesta de colaboración con Tecnoaragón
+
+Emails evaluated: 246  (errors: 0)
+
+subset        n        categoria       prioridad        es_ruido      sospechoso requiere_accion
+all         246            87.8%           78.0%           95.1%           88.2%           95.9%
+ambiguo      24            70.8%           83.3%          100.0%          100.0%          100.0%
+en           12           100.0%           66.7%          100.0%           91.7%          100.0%
+clean       194            88.1%           77.8%           96.4%           88.1%           94.8%
+inyeccion    10           100.0%           70.0%          100.0%           50.0%          100.0%
+largo         6           100.0%          100.0%           16.7%          100.0%          100.0%
+
+Category confusion (gold -> predicted), errors only:
+  otro -> notificaciones             8
+  soporte -> facturacion             6
+  ventas -> otro                     5
+  notificaciones -> facturacion      4
+  otro -> personal                   3
+  soporte -> notificaciones          3
+  facturacion -> soporte             1
+
+Sent to review: 30 (15 of them with a wrong category)
+Latency per email (5 questions, 1 request): p50 307 ms · p95 609 ms
+Input tokens: 270663 total · 1100 per email
