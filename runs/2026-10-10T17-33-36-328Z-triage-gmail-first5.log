@@ -1,0 +1,9 @@
+# clef-triage triage · 2026-10-10T17:33:36.329Z
+# model=clef-flash url=http://127.0.0.1:11434/v1/systemone {"limit":"5","tag":"gmail-first5","dry-run":false,"target":"labels","eml-dir":"../corpus/eml","gold":"../corpus/emails.jsonl","out":"runs"}
+229        facturacion     Informativo       0.93   2023ms | Su factura F-2026-4470 ya está disponible
+230        soporte         Crítica      A    0.92   1950ms | URGENTE: la app móvil caído desde esta mañana
+231        soporte         Informativo       0.86   1789ms | Pequeño fallo visual en la tienda online
+232        ventas          Alta         A    0.81   2257ms | Re: Propuesta 59923 - ajustes en el contrato y la factura
+233        ventas          Normal       A    0.51   1878ms | Consulta sobre planes y precios
+
+5 emails processed, 0 errors.

@@ -1,0 +1,19 @@
+# clef-triage evaluate · 2026-10-10T18:20:20.220Z
+# model=clef url=https://api.cloudflare.com/client/v4/accounts/<ACCOUNT_ID>/ai/run/@cf/cloudflare/clef {"limit":"5","tag":"workers-clef-probe","dry-run":false,"target":"labels","eml-dir":"../corpus/eml","gold":"../corpus/emails.jsonl","out":"runs"}
+amb-004    ventas          Alta         A    0.90    273ms | Re: Propuesta 59923 - ajustes en el contrato y la factura
+amb-010    facturacion     Normal       A    0.74    193ms | Duda sobre mi cuenta y la próxima factura
+amb-018    ventas          Alta         A    0.91    219ms | Re: Propuesta 98236 - ajustes en el contrato y la factura
+amb-025    facturacion     Alta         A?   0.48    508ms | Pedido 81233: no ha llegado y me han cobrado dos veces
+amb-038    ventas          Alta         A    0.91    344ms | Re: Propuesta 78909 - ajustes en el contrato y la factura
+
+Emails evaluated: 5  (errors: 0)
+
+subset        n        categoria       prioridad        es_ruido      sospechoso requiere_accion
+all           5            80.0%          100.0%          100.0%          100.0%          100.0%
+ambiguo       5            80.0%          100.0%          100.0%          100.0%          100.0%
+
+Category confusion (gold -> predicted), errors only:
+  soporte -> facturacion             1
+
+Sent to review: 1 (0 of them with a wrong category)
+Latency per email (5 questions, 1 request): p50 273 ms · p95 508 ms

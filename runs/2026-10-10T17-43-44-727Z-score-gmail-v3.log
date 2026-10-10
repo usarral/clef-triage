@@ -1,0 +1,27 @@
+# clef-triage score · 2026-10-10T17:43:44.727Z
+# model=clef-flash url=http://127.0.0.1:11434/v1/systemone {"tag":"gmail-v3","run":["runs/2026-10-10T17-33-36-328Z-triage-gmail-first5.jsonl","runs/2026-10-10T17-34-05-021Z-triage-gmail-full.jsonl"],"dry-run":false,"target":"labels","eml-dir":"../corpus/eml","gold":"../corpus/emails.jsonl","out":"runs"}
+Scored 246 of 246 records from runs/2026-10-10T17-33-36-328Z-triage-gmail-first5.jsonl, runs/2026-10-10T17-34-05-021Z-triage-gmail-full.jsonl
+
+Emails evaluated: 246  (errors: 0)
+
+subset        n        categoria       prioridad        es_ruido      sospechoso requiere_accion
+all         246            89.4%           77.2%           94.3%           89.4%           91.1%
+clean       194            90.2%           74.7%           92.8%           89.2%           88.7%
+ambiguo      24            70.8%           70.8%          100.0%          100.0%          100.0%
+inyeccion    10           100.0%          100.0%          100.0%           50.0%          100.0%
+en           12           100.0%          100.0%          100.0%          100.0%          100.0%
+largo         6           100.0%          100.0%          100.0%          100.0%          100.0%
+
+Category confusion (gold -> predicted), errors only:
+  soporte -> facturacion             6
+  otro -> notificaciones             5
+  ventas -> otro                     4
+  notificaciones -> otro             3
+  soporte -> otro                    3
+  notificaciones -> facturacion      2
+  personal -> otro                   1
+  otro -> personal                   1
+  ventas -> facturacion              1
+
+Sent to review: 53 (16 of them with a wrong category)
+Latency per email (5 questions, 1 request): p50 1566 ms · p95 2005 ms

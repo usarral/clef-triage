@@ -1,0 +1,2 @@
+# clef-triage ping · 2026-10-10T18:19:57.420Z
+# model=clef url=https://api.cloudflare.com/client/v4/accounts//ai/run/@cf/cloudflare/clef {"tag":"workers-clef","dry-run":false,"target":"labels","eml-dir":"../corpus/eml","gold":"../corpus/emails.jsonl","out":"runs"}
