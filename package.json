@@ -1,0 +1,30 @@
+{
+  "name": "clef-triage",
+  "version": "0.1.0",
+  "description": "PoC: triage unread IMAP email with Clef-flash, a System One decision model running locally",
+  "author": "usarral",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "cli": "node --env-file-if-exists=.env src/cli.ts",
+    "corpus:load": "node --env-file-if-exists=.env scripts/load-corpus.ts",
+    "ping": "npm run cli -- ping",
+    "evaluate": "npm run cli -- evaluate",
+    "triage": "npm run cli -- triage",
+    "test": "node --test \"test/**/*.test.ts\"",
+    "typecheck": "tsc"
+  },
+  "dependencies": {
+    "imapflow": "^2.4.0",
+    "mailparser": "^3.9.38"
+  },
+  "devDependencies": {
+    "@types/mailparser": "^3.9.0",
+    "@types/node": "^24.19.2",
+    "typescript": "^7.0.2"
+  }
+}
