@@ -1,0 +1,27 @@
+From:
+ =?utf-8?q?Log=C3=ADstica_Mediterr=C3=A1neo?= <no-reply@logistica-med.example>
+To: buzon-pruebas@example.com
+Subject: Resumen semanal de copias de seguridad: OK
+Date: Mon, 28 Sep 2026 01:30:00 +0000
+Message-ID: <noti-150@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6353683613478012077=="
+
+--===============6353683613478012077==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Resumen semanal: copias OK, 0 fallos, espacio utilizado 30%. No se requiere n=
+inguna acci=C3=B3n.
+
+--===============6353683613478012077==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Resumen semanal: copias OK, 0=
+ fallos, espacio utilizado 30%. No se requiere ninguna acci=C3=B3n.</p></body=
+></html>
+
+--===============6353683613478012077==--

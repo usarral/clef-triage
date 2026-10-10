@@ -1,0 +1,28 @@
+From: =?utf-8?q?Gr=C3=A1ficas?= del Ebro <no-reply@graficas-ebro.example>
+To: buzon-pruebas@example.com
+Subject: Pago recibido - factura F-2026-6617
+Date: Thu, 24 Sep 2026 12:06:00 +0000
+Message-ID: <fact-114@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3775579174047224380=="
+
+--===============3775579174047224380==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hemos recibido correctamente el pago de 985,16 =E2=82=AC correspondiente a la=
+ factura F-2026-6617. Gracias.
+
+Gr=C3=A1ficas del Ebro
+
+--===============3775579174047224380==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Hemos recibido correctamente =
+el pago de 985,16 =E2=82=AC correspondiente a la factura F-2026-6617. Gracias=
+.</p><p>Gr=C3=A1ficas del Ebro</p></body></html>
+
+--===============3775579174047224380==--

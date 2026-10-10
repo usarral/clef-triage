@@ -1,0 +1,29 @@
+From: =?utf-8?q?Tecnoarag=C3=B3n?= <no-reply@tecnoaragon.example>
+To: buzon-pruebas@example.com
+Subject: Recibo devuelto por el banco - F-2026-3704
+Date: Sat, 19 Sep 2026 16:07:00 +0000
+Message-ID: <fact-078@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1336202331215388637=="
+
+--===============1336202331215388637==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+No hemos podido cobrar la factura F-2026-3704 (4.039,49 =E2=82=AC): la domici=
+liaci=C3=B3n ha sido devuelta. Por favor, revisa tus datos bancarios.
+
+Tecnoarag=C3=B3n
+
+--===============1336202331215388637==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>No hemos podido cobrar la fac=
+tura F-2026-3704 (4.039,49 =E2=82=AC): la domiciliaci=C3=B3n ha sido devuelta=
+. Por favor, revisa tus datos bancarios.</p><p>Tecnoarag=C3=B3n</p></body></h=
+tml>
+
+--===============1336202331215388637==--

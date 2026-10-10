@@ -1,0 +1,29 @@
+From: Estudio =?utf-8?q?Br=C3=BAjula?= <no-reply@estudio-brujula.example>
+To: buzon-pruebas@example.com
+Subject: [ALERTA] Disco al 30% en srv-186
+Date: Thu, 01 Oct 2026 05:45:00 +0000
+Message-ID: <noti-167@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0364050798921508576=="
+
+--===============0364050798921508576==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+El volumen /var de srv-186 ha alcanzado el 30% de uso. Libera espacio o ampl=
+=C3=ADa el disco para evitar interrupciones.
+
+Monitorizaci=C3=B3n =C2=B7 Estudio Br=C3=BAjula
+
+--===============0364050798921508576==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>El volumen /var de srv-186 ha=
+ alcanzado el 30% de uso. Libera espacio o ampl=C3=ADa el disco para evitar i=
+nterrupciones.</p><p>Monitorizaci=C3=B3n =C2=B7 Estudio Br=C3=BAjula</p></bod=
+y></html>
+
+--===============0364050798921508576==--

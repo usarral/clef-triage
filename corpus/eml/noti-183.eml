@@ -1,0 +1,25 @@
+From: "Hosting Sur" <no-reply@hosting-sur.example>
+To: buzon-pruebas@example.com
+Subject: Tu pedido 34662 =?utf-8?q?est=C3=A1?= en camino
+Date: Fri, 02 Oct 2026 12:29:00 +0000
+Message-ID: <noti-183@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8841949202741475873=="
+
+--===============8841949202741475873==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Buenas noticias: tu paquete 34662 est=C3=A1 en reparto. Entrega estimada: 06/=
+09/2026.
+
+--===============8841949202741475873==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Buenas noticias: tu paquete 3=
+4662 est=C3=A1 en reparto. Entrega estimada: 06/09/2026.</p></body></html>
+
+--===============8841949202741475873==--

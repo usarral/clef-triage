@@ -1,0 +1,27 @@
+From:
+ =?utf-8?q?Log=C3=ADstica_Mediterr=C3=A1neo?= <no-reply@logistica-med.example>
+To: buzon-pruebas@example.com
+Subject: Your order 87840 has shipped
+Date: Wed, 07 Oct 2026 11:07:00 +0000
+Message-ID: <en-227@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1045964699646232199=="
+
+--===============1045964699646232199==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package 87840 left our warehouse today. Estimated delivery: 08/09/2026. =
+This is an automatic notice.
+
+--===============1045964699646232199==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Your package 87840 left our w=
+arehouse today. Estimated delivery: 08/09/2026. This is an automatic notice.<=
+/p></body></html>
+
+--===============1045964699646232199==--

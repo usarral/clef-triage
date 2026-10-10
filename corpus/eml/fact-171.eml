@@ -1,0 +1,33 @@
+From: "Suministros Norte" <no-reply@suministros-norte.example>
+To: buzon-pruebas@example.com
+Subject: Su factura F-2026-1993 ya =?utf-8?q?est=C3=A1?= disponible
+Date: Thu, 01 Oct 2026 12:20:00 +0000
+Message-ID: <fact-171@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3095785510047619696=="
+
+--===============3095785510047619696==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hola,
+
+ya puedes descargar la factura F-2026-1993 de 3.571,47 =E2=82=AC desde tu =C3=
+=A1rea de cliente. No tienes que hacer nada: el cargo se realizar=C3=A1 autom=
+=C3=A1ticamente el 23/09/2026 con la tarjeta que tienes registrada.
+
+Suministros Norte
+
+--===============3095785510047619696==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Hola,</p><p>ya puedes descarg=
+ar la factura F-2026-1993 de 3.571,47 =E2=82=AC desde tu =C3=A1rea de cliente=
+. No tienes que hacer nada: el cargo se realizar=C3=A1 autom=C3=A1ticamente e=
+l 23/09/2026 con la tarjeta que tienes registrada.</p><p>Suministros Norte</p=
+></body></html>
+
+--===============3095785510047619696==--

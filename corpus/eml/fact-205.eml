@@ -1,0 +1,30 @@
+From:
+ =?utf-8?q?Log=C3=ADstica_Mediterr=C3=A1neo?= <no-reply@logistica-med.example>
+To: buzon-pruebas@example.com
+Subject: Su factura F-2026-2160 ya =?utf-8?q?est=C3=A1?= disponible
+Date: Sun, 04 Oct 2026 17:19:00 +0000
+Message-ID: <fact-205@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6340416675928296727=="
+
+--===============6340416675928296727==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Tu factura de este mes (F-2026-2160, 1.844,23 =E2=82=AC) est=C3=A1 lista en e=
+l portal. El pago se domiciliar=C3=A1 el 01/09/2026.
+
+Equipo de Log=C3=ADstica Mediterr=C3=A1neo
+
+--===============6340416675928296727==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Tu factura de este mes (F-202=
+6-2160, 1.844,23 =E2=82=AC) est=C3=A1 lista en el portal. El pago se domicili=
+ar=C3=A1 el 01/09/2026.</p><p>Equipo de Log=C3=ADstica Mediterr=C3=A1neo</p><=
+/body></html>
+
+--===============6340416675928296727==--

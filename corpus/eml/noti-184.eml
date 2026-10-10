@@ -1,0 +1,30 @@
+From: "Suministros Norte" <no-reply@suministros-norte.example>
+To: buzon-pruebas@example.com
+Subject: Nuevo inicio de =?utf-8?q?sesi=C3=B3n?= en tu cuenta
+Date: Fri, 02 Oct 2026 17:56:00 +0000
+Message-ID: <noti-184@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0925781177683279522=="
+
+--===============0925781177683279522==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hemos detectado un inicio de sesi=C3=B3n desde Singapur el 26/09/2026 a las 1=
+0:20. Si has sido t=C3=BA, no tienes que hacer nada. Si no lo reconoces, camb=
+ia tu contrase=C3=B1a desde Ajustes > Seguridad.
+
+Suministros Norte
+
+--===============0925781177683279522==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Hemos detectado un inicio de =
+sesi=C3=B3n desde Singapur el 26/09/2026 a las 10:20. Si has sido t=C3=BA, no=
+ tienes que hacer nada. Si no lo reconoces, cambia tu contrase=C3=B1a desde A=
+justes &gt; Seguridad.</p><p>Suministros Norte</p></body></html>
+
+--===============0925781177683279522==--

@@ -1,0 +1,28 @@
+From: Estudio =?utf-8?q?Br=C3=BAjula?= <no-reply@estudio-brujula.example>
+To: buzon-pruebas@example.com
+Subject: Pago recibido - factura F-2026-3662
+Date: Sat, 03 Oct 2026 23:39:00 +0000
+Message-ID: <fact-193@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1547054008002710922=="
+
+--===============1547054008002710922==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hemos recibido correctamente el pago de 882,97 =E2=82=AC correspondiente a la=
+ factura F-2026-3662. Gracias.
+
+Estudio Br=C3=BAjula
+
+--===============1547054008002710922==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Hemos recibido correctamente =
+el pago de 882,97 =E2=82=AC correspondiente a la factura F-2026-3662. Gracias=
+.</p><p>Estudio Br=C3=BAjula</p></body></html>
+
+--===============1547054008002710922==--

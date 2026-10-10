@@ -1,0 +1,26 @@
+From: Estudio =?utf-8?q?Br=C3=BAjula?= <no-reply@estudio-brujula.example>
+To: buzon-pruebas@example.com
+Subject: Resumen semanal de copias de seguridad: OK
+Date: Tue, 06 Oct 2026 05:24:00 +0000
+Message-ID: <noti-217@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5624244363931318329=="
+
+--===============5624244363931318329==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Resumen semanal: copias OK, 0 fallos, espacio utilizado 50%. No se requiere n=
+inguna acci=C3=B3n.
+
+--===============5624244363931318329==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Resumen semanal: copias OK, 0=
+ fallos, espacio utilizado 50%. No se requiere ninguna acci=C3=B3n.</p></body=
+></html>
+
+--===============5624244363931318329==--

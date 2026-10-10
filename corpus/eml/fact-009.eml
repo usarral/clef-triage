@@ -1,0 +1,30 @@
+From: "Hosting Sur" <no-reply@hosting-sur.example>
+To: buzon-pruebas@example.com
+Subject: Recibo devuelto por el banco - F-2026-7381
+Date: Fri, 11 Sep 2026 11:14:00 +0000
+Message-ID: <fact-009@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1963558060193413940=="
+
+--===============1963558060193413940==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+El banco ha devuelto el recibo de 3.379,42 =E2=82=AC (F-2026-7381). Para evit=
+ar la suspensi=C3=B3n del servicio, actualiza tu m=C3=A9todo de pago antes de=
+l 22/09/2026.
+
+Hosting Sur
+
+--===============1963558060193413940==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>El banco ha devuelto el recib=
+o de 3.379,42 =E2=82=AC (F-2026-7381). Para evitar la suspensi=C3=B3n del ser=
+vicio, actualiza tu m=C3=A9todo de pago antes del 22/09/2026.</p><p>Hosting S=
+ur</p></body></html>
+
+--===============1963558060193413940==--

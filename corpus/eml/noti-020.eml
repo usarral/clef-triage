@@ -1,0 +1,30 @@
+From:
+ =?utf-8?q?Log=C3=ADstica_Mediterr=C3=A1neo?= <no-reply@logistica-med.example>
+To: buzon-pruebas@example.com
+Subject: Nuevo inicio de =?utf-8?q?sesi=C3=B3n?= en tu cuenta
+Date: Sat, 12 Sep 2026 15:06:00 +0000
+Message-ID: <noti-020@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1604566102007573911=="
+
+--===============1604566102007573911==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Se ha iniciado sesi=C3=B3n en tu cuenta desde un dispositivo nuevo (Valencia)=
+. Si fuiste t=C3=BA, ignora este mensaje.
+
+Equipo de seguridad de Log=C3=ADstica Mediterr=C3=A1neo
+
+--===============1604566102007573911==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Se ha iniciado sesi=C3=B3n en=
+ tu cuenta desde un dispositivo nuevo (Valencia). Si fuiste t=C3=BA, ignora e=
+ste mensaje.</p><p>Equipo de seguridad de Log=C3=ADstica Mediterr=C3=A1neo</p=
+></body></html>
+
+--===============1604566102007573911==--

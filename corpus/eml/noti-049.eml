@@ -1,0 +1,30 @@
+From:
+ =?utf-8?q?Log=C3=ADstica_Mediterr=C3=A1neo?= <no-reply@logistica-med.example>
+To: buzon-pruebas@example.com
+Subject: [ALERTA] Disco al 50% en srv-82
+Date: Wed, 16 Sep 2026 05:40:00 +0000
+Message-ID: <noti-049@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4095301718124617894=="
+
+--===============4095301718124617894==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+El volumen /var de srv-82 ha alcanzado el 50% de uso. Libera espacio o ampl=
+=C3=ADa el disco para evitar interrupciones.
+
+Monitorizaci=C3=B3n =C2=B7 Log=C3=ADstica Mediterr=C3=A1neo
+
+--===============4095301718124617894==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>El volumen /var de srv-82 ha =
+alcanzado el 50% de uso. Libera espacio o ampl=C3=ADa el disco para evitar in=
+terrupciones.</p><p>Monitorizaci=C3=B3n =C2=B7 Log=C3=ADstica Mediterr=C3=A1n=
+eo</p></body></html>
+
+--===============4095301718124617894==--

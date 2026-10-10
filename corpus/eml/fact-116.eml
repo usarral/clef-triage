@@ -1,0 +1,26 @@
+From: Estudio =?utf-8?q?Br=C3=BAjula?= <no-reply@estudio-brujula.example>
+To: buzon-pruebas@example.com
+Subject: Pago recibido - factura F-2026-9938
+Date: Thu, 24 Sep 2026 13:16:00 +0000
+Message-ID: <fact-116@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7103470854966643913=="
+
+--===============7103470854966643913==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Confirmaci=C3=B3n de pago: 3.659,56 =E2=82=AC =C2=B7 factura F-2026-9938 =C2=
+=B7 06/10/2026. No es necesaria ninguna acci=C3=B3n por tu parte.
+
+--===============7103470854966643913==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Confirmaci=C3=B3n de pago: 3.=
+659,56 =E2=82=AC =C2=B7 factura F-2026-9938 =C2=B7 06/10/2026. No es necesari=
+a ninguna acci=C3=B3n por tu parte.</p></body></html>
+
+--===============7103470854966643913==--

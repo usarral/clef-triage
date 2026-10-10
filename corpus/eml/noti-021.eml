@@ -1,0 +1,26 @@
+From: =?utf-8?q?Gr=C3=A1ficas?= del Ebro <no-reply@graficas-ebro.example>
+To: buzon-pruebas@example.com
+Subject: [ALERTA] Disco al 70% en srv-35
+Date: Sat, 12 Sep 2026 15:24:00 +0000
+Message-ID: <noti-021@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3807253273465647581=="
+
+--===============3807253273465647581==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+ALERTA srv-35: uso de disco 70% (umbral 85%). =C3=9Altima comprobaci=C3=B3n: =
+24/09/2026 7:05.
+
+--===============3807253273465647581==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>ALERTA srv-35: uso de disco 7=
+0% (umbral 85%). =C3=9Altima comprobaci=C3=B3n: 24/09/2026 7:05.</p></body></=
+html>
+
+--===============3807253273465647581==--

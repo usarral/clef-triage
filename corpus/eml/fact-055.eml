@@ -1,0 +1,26 @@
+From: "Suministros Norte" <no-reply@suministros-norte.example>
+To: buzon-pruebas@example.com
+Subject: Pago recibido - factura F-2026-4652
+Date: Wed, 16 Sep 2026 20:30:00 +0000
+Message-ID: <fact-055@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5446591058189390844=="
+
+--===============5446591058189390844==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Confirmaci=C3=B3n de pago: 3.895,35 =E2=82=AC =C2=B7 factura F-2026-4652 =C2=
+=B7 15/09/2026. No es necesaria ninguna acci=C3=B3n por tu parte.
+
+--===============5446591058189390844==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Confirmaci=C3=B3n de pago: 3.=
+895,35 =E2=82=AC =C2=B7 factura F-2026-4652 =C2=B7 15/09/2026. No es necesari=
+a ninguna acci=C3=B3n por tu parte.</p></body></html>
+
+--===============5446591058189390844==--

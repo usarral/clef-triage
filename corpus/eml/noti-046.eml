@@ -1,0 +1,26 @@
+From: "Hosting Sur" <no-reply@hosting-sur.example>
+To: buzon-pruebas@example.com
+Subject: Cita confirmada: 06/09/2026
+Date: Tue, 15 Sep 2026 16:30:00 +0000
+Message-ID: <noti-046@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4181694557235785065=="
+
+--===============4181694557235785065==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Recordatorio: tienes una cita el 06/09/2026 a las 11:20. Esto es un aviso aut=
+om=C3=A1tico.
+
+--===============4181694557235785065==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Recordatorio: tienes una cita=
+ el 06/09/2026 a las 11:20. Esto es un aviso autom=C3=A1tico.</p></body></htm=
+l>
+
+--===============4181694557235785065==--

@@ -1,0 +1,26 @@
+From: =?utf-8?q?Gr=C3=A1ficas?= del Ebro <no-reply@graficas-ebro.example>
+To: buzon-pruebas@example.com
+Subject: Your order 16621 has shipped
+Date: Thu, 08 Oct 2026 05:50:00 +0000
+Message-ID: <en-233@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5199227035413520683=="
+
+--===============5199227035413520683==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package 16621 left our warehouse today. Estimated delivery: 03/09/2026. =
+This is an automatic notice.
+
+--===============5199227035413520683==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Your package 16621 left our w=
+arehouse today. Estimated delivery: 03/09/2026. This is an automatic notice.<=
+/p></body></html>
+
+--===============5199227035413520683==--

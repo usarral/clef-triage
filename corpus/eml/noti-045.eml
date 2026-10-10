@@ -1,0 +1,28 @@
+From: Estudio =?utf-8?q?Br=C3=BAjula?= <no-reply@estudio-brujula.example>
+To: buzon-pruebas@example.com
+Subject: Cita confirmada: 12/09/2026
+Date: Tue, 15 Sep 2026 15:37:00 +0000
+Message-ID: <noti-045@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1536529605620089504=="
+
+--===============1536529605620089504==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Tu cita del 12/09/2026 a las 7:20 en Sevilla est=C3=A1 confirmada. Puedes can=
+celarla hasta 24 horas antes desde tu cuenta.
+
+Estudio Br=C3=BAjula
+
+--===============1536529605620089504==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Tu cita del 12/09/2026 a las =
+7:20 en Sevilla est=C3=A1 confirmada. Puedes cancelarla hasta 24 horas antes =
+desde tu cuenta.</p><p>Estudio Br=C3=BAjula</p></body></html>
+
+--===============1536529605620089504==--

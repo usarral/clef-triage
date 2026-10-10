@@ -1,0 +1,28 @@
+From: "Hosting Sur" <no-reply@hosting-sur.example>
+To: buzon-pruebas@example.com
+Subject: Your order 83308 has shipped
+Date: Sun, 04 Oct 2026 14:42:00 +0000
+Message-ID: <en-203@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1553266006396803514=="
+
+--===============1553266006396803514==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good news: your order 83308 is on its way and should arrive on 06/09/2026. Yo=
+u can track it from your account.
+
+Hosting Sur
+
+--===============1553266006396803514==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Good news: your order 83308 i=
+s on its way and should arrive on 06/09/2026. You can track it from your acco=
+unt.</p><p>Hosting Sur</p></body></html>
+
+--===============1553266006396803514==--

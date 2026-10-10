@@ -1,0 +1,28 @@
+From: "Suministros Norte" <no-reply@suministros-norte.example>
+To: buzon-pruebas@example.com
+Subject: Resumen semanal de copias de seguridad: OK
+Date: Fri, 02 Oct 2026 22:54:00 +0000
+Message-ID: <noti-186@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8448045379736756526=="
+
+--===============8448045379736756526==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Las 148 copias de seguridad de esta semana se han completado sin errores. Pr=
+=C3=B3xima ejecuci=C3=B3n programada: 02/10/2026.
+
+Backups =C2=B7 Suministros Norte
+
+--===============8448045379736756526==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Las 148 copias de seguridad d=
+e esta semana se han completado sin errores. Pr=C3=B3xima ejecuci=C3=B3n prog=
+ramada: 02/10/2026.</p><p>Backups =C2=B7 Suministros Norte</p></body></html>
+
+--===============8448045379736756526==--

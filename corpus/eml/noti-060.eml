@@ -1,0 +1,28 @@
+From: Estudio =?utf-8?q?Br=C3=BAjula?= <no-reply@estudio-brujula.example>
+To: buzon-pruebas@example.com
+Subject: Tu pedido 39536 =?utf-8?q?est=C3=A1?= en camino
+Date: Thu, 17 Sep 2026 09:43:00 +0000
+Message-ID: <noti-060@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5289293137125857688=="
+
+--===============5289293137125857688==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Tu pedido 39536 ha salido del almac=C3=A9n y llegar=C3=A1 el 27/09/2026. Pued=
+es seguir el env=C3=ADo desde tu cuenta.
+
+Estudio Br=C3=BAjula
+
+--===============5289293137125857688==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Tu pedido 39536 ha salido del=
+ almac=C3=A9n y llegar=C3=A1 el 27/09/2026. Puedes seguir el env=C3=ADo desde=
+ tu cuenta.</p><p>Estudio Br=C3=BAjula</p></body></html>
+
+--===============5289293137125857688==--

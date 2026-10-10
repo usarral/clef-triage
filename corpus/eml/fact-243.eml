@@ -1,0 +1,30 @@
+From:
+ =?utf-8?q?Log=C3=ADstica_Mediterr=C3=A1neo?= <no-reply@logistica-med.example>
+To: buzon-pruebas@example.com
+Subject: Recibo devuelto por el banco - F-2026-8619
+Date: Thu, 08 Oct 2026 21:04:00 +0000
+Message-ID: <fact-243@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3073362824196659008=="
+
+--===============3073362824196659008==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+No hemos podido cobrar la factura F-2026-8619 (1.288,67 =E2=82=AC): la domici=
+liaci=C3=B3n ha sido devuelta. Por favor, revisa tus datos bancarios.
+
+Log=C3=ADstica Mediterr=C3=A1neo
+
+--===============3073362824196659008==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>No hemos podido cobrar la fac=
+tura F-2026-8619 (1.288,67 =E2=82=AC): la domiciliaci=C3=B3n ha sido devuelta=
+. Por favor, revisa tus datos bancarios.</p><p>Log=C3=ADstica Mediterr=C3=A1n=
+eo</p></body></html>
+
+--===============3073362824196659008==--

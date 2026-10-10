@@ -1,0 +1,34 @@
+From:
+ =?utf-8?q?Log=C3=ADstica_Mediterr=C3=A1neo?= <no-reply@logistica-med.example>
+To: buzon-pruebas@example.com
+Subject: Su factura F-2026-4470 ya =?utf-8?q?est=C3=A1?= disponible
+Date: Thu, 10 Sep 2026 09:43:00 +0000
+Message-ID: <fact-001@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3830173346226885668=="
+
+--===============3830173346226885668==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hola,
+
+ya puedes descargar la factura F-2026-4470 de 1.070,95 =E2=82=AC desde tu =C3=
+=A1rea de cliente. No tienes que hacer nada: el cargo se realizar=C3=A1 autom=
+=C3=A1ticamente el 09/09/2026 con la tarjeta que tienes registrada.
+
+Log=C3=ADstica Mediterr=C3=A1neo
+
+--===============3830173346226885668==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Hola,</p><p>ya puedes descarg=
+ar la factura F-2026-4470 de 1.070,95 =E2=82=AC desde tu =C3=A1rea de cliente=
+. No tienes que hacer nada: el cargo se realizar=C3=A1 autom=C3=A1ticamente e=
+l 09/09/2026 con la tarjeta que tienes registrada.</p><p>Log=C3=ADstica Medit=
+err=C3=A1neo</p></body></html>
+
+--===============3830173346226885668==--

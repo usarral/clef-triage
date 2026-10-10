@@ -1,0 +1,57 @@
+From: Estudio =?utf-8?q?Br=C3=BAjula?= <no-reply@estudio-brujula.example>
+To: buzon-pruebas@example.com
+Subject: Resumen mensual de actividad del proyecto
+Date: Tue, 06 Oct 2026 14:50:00 +0000
+Message-ID: <larg-223@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6863981165116389292=="
+
+--===============6863981165116389292==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Resumen de actividad de Estudio Br=C3=BAjula correspondiente al mes pasado.
+
+Desarrollo: se han cerrado 150 tareas y quedan 14 abiertas. El equipo ha mant=
+enido el ritmo previsto y se han resuelto los bloqueos pendientes con el clie=
+nte. Se ha completado la migraci=C3=B3n del m=C3=B3dulo de informes y se ha a=
+ctualizado la documentaci=C3=B3n interna.
+
+Calidad: la cobertura de pruebas se sit=C3=BAa en el 70%. Se han corregido 9 =
+incidencias menores y no hay ninguna cr=C3=ADtica abierta. Las pruebas de car=
+ga del 27/09/2026 no han mostrado degradaci=C3=B3n relevante.
+
+Infraestructura: las copias de seguridad se han ejecutado sin errores y el us=
+o medio de disco es del 70%. Est=C3=A1 planificada una ventana de mantenimien=
+to el 27/09/2026 a las 8:05.
+
+Pr=C3=B3ximos pasos: revisi=C3=B3n de permisos, actualizaci=C3=B3n de depende=
+ncias y preparaci=C3=B3n de la demostraci=C3=B3n trimestral. No se requiere n=
+inguna acci=C3=B3n por tu parte; este informe es solo informativo.
+
+Un saludo,
+Equipo de Estudio Br=C3=BAjula
+
+--===============6863981165116389292==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Resumen de actividad de Estud=
+io Br=C3=BAjula correspondiente al mes pasado.</p><p>Desarrollo: se han cerra=
+do 150 tareas y quedan 14 abiertas. El equipo ha mantenido el ritmo previsto =
+y se han resuelto los bloqueos pendientes con el cliente. Se ha completado la=
+ migraci=C3=B3n del m=C3=B3dulo de informes y se ha actualizado la documentac=
+i=C3=B3n interna.</p><p>Calidad: la cobertura de pruebas se sit=C3=BAa en el =
+70%. Se han corregido 9 incidencias menores y no hay ninguna cr=C3=ADtica abi=
+erta. Las pruebas de carga del 27/09/2026 no han mostrado degradaci=C3=B3n re=
+levante.</p><p>Infraestructura: las copias de seguridad se han ejecutado sin =
+errores y el uso medio de disco es del 70%. Est=C3=A1 planificada una ventana=
+ de mantenimiento el 27/09/2026 a las 8:05.</p><p>Pr=C3=B3ximos pasos: revisi=
+=C3=B3n de permisos, actualizaci=C3=B3n de dependencias y preparaci=C3=B3n de=
+ la demostraci=C3=B3n trimestral. No se requiere ninguna acci=C3=B3n por tu p=
+arte; este informe es solo informativo.</p><p>Un saludo,<br>Equipo de Estudio=
+ Br=C3=BAjula</p></body></html>
+
+--===============6863981165116389292==--

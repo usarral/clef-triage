@@ -1,0 +1,28 @@
+From: Estudio =?utf-8?q?Br=C3=BAjula?= <no-reply@estudio-brujula.example>
+To: buzon-pruebas@example.com
+Subject: Su factura F-2026-6310 ya =?utf-8?q?est=C3=A1?= disponible
+Date: Thu, 08 Oct 2026 16:44:00 +0000
+Message-ID: <fact-240@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8717479933046279544=="
+
+--===============8717479933046279544==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Tu factura de este mes (F-2026-6310, 4.198,37 =E2=82=AC) est=C3=A1 lista en e=
+l portal. El pago se domiciliar=C3=A1 el 09/10/2026.
+
+Equipo de Estudio Br=C3=BAjula
+
+--===============8717479933046279544==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Tu factura de este mes (F-202=
+6-6310, 4.198,37 =E2=82=AC) est=C3=A1 lista en el portal. El pago se domicili=
+ar=C3=A1 el 09/10/2026.</p><p>Equipo de Estudio Br=C3=BAjula</p></body></html>
+
+--===============8717479933046279544==--

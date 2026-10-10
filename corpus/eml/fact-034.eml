@@ -1,0 +1,30 @@
+From: =?utf-8?q?Tecnoarag=C3=B3n?= <no-reply@tecnoaragon.example>
+To: buzon-pruebas@example.com
+Subject: Recibo devuelto por el banco - F-2026-5133
+Date: Mon, 14 Sep 2026 13:29:00 +0000
+Message-ID: <fact-034@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4370021069432036651=="
+
+--===============4370021069432036651==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+El banco ha devuelto el recibo de 3.764,28 =E2=82=AC (F-2026-5133). Para evit=
+ar la suspensi=C3=B3n del servicio, actualiza tu m=C3=A9todo de pago antes de=
+l 21/09/2026.
+
+Tecnoarag=C3=B3n
+
+--===============4370021069432036651==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>El banco ha devuelto el recib=
+o de 3.764,28 =E2=82=AC (F-2026-5133). Para evitar la suspensi=C3=B3n del ser=
+vicio, actualiza tu m=C3=A9todo de pago antes del 21/09/2026.</p><p>Tecnoarag=
+=C3=B3n</p></body></html>
+
+--===============4370021069432036651==--

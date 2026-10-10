@@ -1,0 +1,28 @@
+From: =?utf-8?q?Gr=C3=A1ficas?= del Ebro <no-reply@graficas-ebro.example>
+To: buzon-pruebas@example.com
+Subject: Tu pedido 74004 =?utf-8?q?est=C3=A1?= en camino
+Date: Fri, 11 Sep 2026 22:50:00 +0000
+Message-ID: <noti-014@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8713838381530231886=="
+
+--===============8713838381530231886==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Tu pedido 74004 ha salido del almac=C3=A9n y llegar=C3=A1 el 02/10/2026. Pued=
+es seguir el env=C3=ADo desde tu cuenta.
+
+Gr=C3=A1ficas del Ebro
+
+--===============8713838381530231886==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Tu pedido 74004 ha salido del=
+ almac=C3=A9n y llegar=C3=A1 el 02/10/2026. Puedes seguir el env=C3=ADo desde=
+ tu cuenta.</p><p>Gr=C3=A1ficas del Ebro</p></body></html>
+
+--===============8713838381530231886==--

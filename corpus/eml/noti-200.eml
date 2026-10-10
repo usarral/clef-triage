@@ -1,0 +1,25 @@
+From: =?utf-8?q?Tecnoarag=C3=B3n?= <no-reply@tecnoaragon.example>
+To: buzon-pruebas@example.com
+Subject: Tu pedido 44180 =?utf-8?q?est=C3=A1?= en camino
+Date: Sun, 04 Oct 2026 05:52:00 +0000
+Message-ID: <noti-200@clef-triage.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3473726354696767596=="
+
+--===============3473726354696767596==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Buenas noticias: tu paquete 44180 est=C3=A1 en reparto. Entrega estimada: 21/=
+09/2026.
+
+--===============3473726354696767596==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:sans-serif"><p>Buenas noticias: tu paquete 4=
+4180 est=C3=A1 en reparto. Entrega estimada: 21/09/2026.</p></body></html>
+
+--===============3473726354696767596==--
