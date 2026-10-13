@@ -38,8 +38,8 @@ never marked as read, and `$ClefTriaged` makes reruns idempotent.
 | Sent to review | 53 | 58 | 30 |
 | Latency p50 | 1.34 s | 0.31 s | 0.31 s |
 
-The full design log (in Spanish), including every iteration and its errors, is
-in [docs/BITACORA.md](docs/BITACORA.md). Every run's console output and raw
+Every iteration of the questions and its errors is explained in the article.
+Every run's console output and raw
 probabilities are in [runs/](runs/). The synthetic test corpus with its gold
 labels is in [corpus/](corpus/).
 
@@ -61,7 +61,6 @@ src/
   cli.ts                    composition root
 scripts/load-corpus.ts      loads corpus/eml into an IMAP mailbox as unread mail
 corpus/                     246 synthetic emails + gold labels
-docs/BITACORA.md            design log (Spanish)
 runs/                       logs and raw probabilities of every run
 ```
 
