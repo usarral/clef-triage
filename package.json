@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "imapflow": "^2.4.0",
-    "mailparser": "^3.9.38"
+    "mailparser": "^3.14.1"
   },
   "devDependencies": {
     "@types/mailparser": "^3.9.0",
